@@ -97,9 +97,7 @@ while True:
         head.direction = "stop"
 
         # # clear the segments
-        # for segment in segments:
-        #     segment.goto(600, 600)
-        # # # segments.clear()
+        segments.clear()
 
         # reset score
         score = 0
