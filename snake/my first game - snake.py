@@ -164,6 +164,3 @@ while True:
     move()
     time.sleep(delay)
     wn.update()
-
-
-
